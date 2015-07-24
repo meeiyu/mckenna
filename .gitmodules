@@ -1,0 +1,3 @@
+[submodule "src/app/react-tool-kits"]
+	path = src/app/react-tool-kits
+	url = https://github.com/migocorp/react-tool-kits.git
