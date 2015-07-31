@@ -34,6 +34,7 @@
     "express": "^4.12.4",
     "extract-text-webpack-plugin": "^0.8.1",
     "file-loader": "^0.8.4",
+    "highcharts": "0.0.8",
     "html-webpack-plugin": "^1.4.0",
     "http-proxy": "^1.11.1",
     "node-libs-browser": "^0.5.2",
@@ -53,6 +54,7 @@
   "vendors": [
     "react",
     "jquery",
-    "bootstrap"
+    "bootstrap",
+    "./node_modules/highcharts/scripts/highcharts.js"
   ]
 }

@@ -1,27 +1,10 @@
 body {
-	background: url('../images/bg.jpg') no-repeat 0 0;
-	color: white;
+
 }
 
-.app-jumbotron-header-wrapper {
-	width: 80%;
-	display: inline-block;
-	vertical-align: middle;
-	color: black;
-}
-
-.app-jumbotron-header {
-	display: inline-block;
-}
-
-.app-jumbotron-body {
-	display: inline-block;
-}
-
-.app-jumbotron-image {
-	display: inline-block;
-	width: 126px;
-	height: 126px;
-	background: url('../images/react_icon.png') no-repeat 0 0;
-	vertical-align: middle;
+.container{
+	min-width: 400px;
+	height: 400px;
+	margin: 0 auto;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
 }
